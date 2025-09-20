@@ -6,7 +6,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ibtihal-Almutawakil&show_icons=true&locale=en" alt="almutawakilij-tech" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ibtihal-Almutawakil&" alt="almutawakilij-tech" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ibtihal-Almutawakil&" alt="Ibtihal-Almutawakil" /></p>
 
 
 
